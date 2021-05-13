@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cute Video Player</string>
+    <string name="ADMOB_ADS_UNIT_ID">/419163168/com.cute.mediaplayer.Native1</string>
+    <string name="ad_attribution">Ad</string>
+</resources>

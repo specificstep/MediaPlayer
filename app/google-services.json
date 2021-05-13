@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090397019248",
+    "firebase_url": "https://cute-5b4b3-default-rtdb.firebaseio.com",
+    "project_id": "cute-5b4b3",
+    "storage_bucket": "cute-5b4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090397019248:android:6ea2464ed51cd8c59168b5",
+        "android_client_info": {
+          "package_name": "com.cute.mediaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090397019248-7hirrjr4akmand6hdqu9og7sbgijirb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLk_K-BexSVq--Hod4-L2J5ghXBFZtcQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090397019248-7hirrjr4akmand6hdqu9og7sbgijirb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
